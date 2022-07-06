@@ -1,0 +1,50 @@
+[
+    {
+        "img": "../assets/images/meg.jpg",
+        "alt": "Meghalaya",
+        "name": "Meghalaya",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/ass.jpg",
+        "alt": "Assam",
+        "name": "Assam",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/naga.jpg",
+        "alt": "Nagaland",
+        "name": "Nagaland",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/arun.jpg",
+        "alt": "Arunachal Pradesh",
+        "name": "Arunachal Pradesh",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/mani.jpg",
+        "alt": "Manipur",
+        "name": "Manipur",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/mizo.jpg",
+        "alt": "Mizoram",
+        "name": "Mizoram",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/tri.jpg",
+        "alt": "Tripura",
+        "name": "Tripura",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/sik.jpg",
+        "alt": "Sikkim",
+        "name": "Sikkim",
+        "button": "View Destination"
+    }
+]
